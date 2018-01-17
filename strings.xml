@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlexKoFirebaseChatApp</string>
+    <string name="input">Input</string>
+    <string name="message_tone">Message tone</string>
+    <string name="message_text">Message text</string>
+    <string name="time">Time</string>
+    <string name="user">User</string>
+</resources>
